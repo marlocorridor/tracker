@@ -1,7 +1,7 @@
 {
-    "name": "pragmarx/tracker",
+    "name": "macorridor/tracker",
 
-    "description": "A Laravel Visitor Tracker",
+    "description": "A Laravel Visitor Tracker - pragmarx/tracker fork",
 
     "keywords": ["tracker", "tracking", "visitor", "logging", "user agent", "mobile detection", "laravel", "pragmarx"],
 
@@ -9,9 +9,9 @@
 
     "authors": [
         {
-            "name": "Antonio Carlos Ribeiro",
-            "email": "acr@antoniocarlosribeiro.com",
-            "role": "Creator & Designer"
+            "name": "Marlo Corridor",
+            "email": "corridor.marlo@gmail.com",
+            "role": "Contributor"
         }
     ],
 
@@ -43,9 +43,6 @@
     },
 
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.1.x-dev"
-        }
     },
 
     "minimum-stability": "dev"
