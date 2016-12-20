@@ -6,6 +6,8 @@
     "keywords": ["tracker", "tracking", "visitor", "logging", "user agent", "mobile detection", "laravel", "pragmarx"],
 
     "license": "MIT",
+    
+    "version": "3.0.1",
 
     "authors": [
         {
